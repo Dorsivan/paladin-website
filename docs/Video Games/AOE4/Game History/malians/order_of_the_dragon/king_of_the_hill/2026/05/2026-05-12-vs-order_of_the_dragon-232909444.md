@@ -1,0 +1,33 @@
+# malians vs order_of_the_dragon
+
+- **Date:** 2026-05-12
+- **Map:** King of the Hill
+- **Account**: Solanum
+- **Opponent**: Black-Beast-Squad
+- **My Civ:** malians
+- **Opponent Civ:** order_of_the_dragon
+- **Result:** win
+- **Game Duration:** 29:58 minutes
+
+## Opening Strategy
+<Short paragraph about your build and plan>
+
+## Opponent Strategy
+<What they did, what civ strengths they used>
+
+## What Went Well
+- 
+
+## What Went Wrong
+- 
+
+## What Should Be Done In The Future
+-
+
+## Key Moments
+- [HH:MM:SS] 
+
+## Replay
+- Reviewed: No
+- Youtube Video:
+- AOE4World Match URL: [View Match](https://aoe4world.com/players/22969958-Solanum/games/232909444)

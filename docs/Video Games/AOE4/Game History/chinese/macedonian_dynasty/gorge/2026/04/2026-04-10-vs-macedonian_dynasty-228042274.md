@@ -2,7 +2,7 @@
 
 - **Date:** 2026-04-10
 - **Map:** Gorge
-- **Account**: Maturin the Turtle
+- **Account**: Solanum
 - **Opponent**: The true bretonnian
 - **My Civ:** chinese
 - **Opponent Civ:** macedonian_dynasty

@@ -2,7 +2,7 @@
 
 - **Date:** 2026-03-19
 - **Map:** Rocky River
-- **Account**: KT Enjoyer
+- **Account**: Jardino
 - **Opponent**: smallalalaaa
 - **My Civ:** knights_templar
 - **Opponent Civ:** macedonian_dynasty

@@ -2,7 +2,7 @@
 
 - **Date:** 2026-04-11
 - **Map:** Dry Arabia
-- **Account**: Maturin the Turtle
+- **Account**: Solanum
 - **Opponent**: DeMu
 - **My Civ:** chinese
 - **Opponent Civ:** order_of_the_dragon

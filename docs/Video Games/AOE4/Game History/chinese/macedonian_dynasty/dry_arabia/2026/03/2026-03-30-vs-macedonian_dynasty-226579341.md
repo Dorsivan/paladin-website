@@ -2,7 +2,7 @@
 
 - **Date:** 2026-03-30
 - **Map:** Dry Arabia
-- **Account**: Maturin the Turtle
+- **Account**: Solanum
 - **Opponent**: Chuckfrancis
 - **My Civ:** chinese
 - **Opponent Civ:** macedonian_dynasty

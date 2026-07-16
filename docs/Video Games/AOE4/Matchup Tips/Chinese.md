@@ -14,19 +14,73 @@
 
 ## Byzantines
 
-### Gameplay Plan
+The Byzantine strategy is usually to survive feudal as best as they can, go into castle and spam catapracts + longbows.
 
-Delay Pro Scouts -> Supervise archers -> force reaction to defend berries -> Horseman -> Kill Longbows 
+### Dark Age
+
+In dark age, we need to scout berry locations of the byzantine player, as well as number of villagers on the stone.
+A slow opening, such as 3 on stone or a slower age up, paired up with a somewhat forward berries, can indicate we have the opportunity to rush the opponent.
+
+### Feudal Age
+
+#### Quick Aggression On Forward Berries
+
+Scouting the enemy opened *barracks* allows us to quickly make an archery range and send archers to the berries, forcing a tower or stable. We then follow this up with our own horsemen, trying to deal damage as we pro scouts.
+
+We delay pro scouts here, possibly even take villagers off of gold.
+
+#### Normal Play
+
+Opening horseman into archers, we try to eliminate longbows from the opponent, defend our pro scouts, and limit his control on outer bases.
+Ideally, we would take a good fight before castle, where we eliminate the spears.
+
+### Castle Age
+
+#### How to Deal With Mass Catapracts
+
+Cataphracts require a powerful economy, this means they are hard to mass, and require a lot of food, so we can comfortably go for knights early on, paired with archers. The opponent is likely to go in one of two ways, pure cata + longbow or cata + longbow + limitanei/crossbows.
+
+vs pure cata longbow, you go for mass knights.
+vs cata + lb + something more, this means the opponent will have less cataphracts, and it is worth to go for crossbows. You need 22(!) crossbows to one shot cataphracts. Normally that'd be unlikely, but Chinese can rather easily go for this, at the cost of stopping knight production
+
+siege also suffers vs a number of say over 10 catas
+
+Our goal is to make units and survive the farm transition. Static defenses like springald towers help greatly here.
+
+Be sure to secure at least one big gold.
+
+### Imperial Age
+
+In imperial mangonel towers become far less scary thanks to bombards.
+
+Our goal is to noticibly thin the number of longbows, to allow ourselves to go for handcanons.
+
+Further lessons are required here.
 
 ### General Tips
 
 - Making early units, going for the archers and horseman pretty good if they make javalins
 - Castle age timing with Knights archers
-- After relics, we add a Barbican, keep dealing damage, keep harassing, play fast and defend with archers.
-- They usually go for mass infantry, so NoB is very good
+- After relics, we add a Barbican, keep dealing damage, keep harassing.
 - Their main way of winning is with a cataphract archer timing
 
 ## vs Macedonian Dynasty
+
+The Macedonian Dynasty aims to get into castle age, enabling themselves the powerful riddari unit and several strong upgrades. Our advantage is our powerful economy.
+
+### Dark Age
+
+Scout for the deer packs of the macedonian, to see if they had went on them early in the dark age. This leads us to choose if we would like to quickly make a horseman and send it into the deer pack.
+
+### Feudal Age
+
+Our goal is to keep macedonian in feudal age while we are pro scouting. Since the GH tower allows them safe access to gold after constracted, we want to open with horsemen to ready an attack force. From here it splits, and requires good scouting
+
+#### Macedonian Makes Many Horsemen
+
+
+
+#### Macedonian Makes Little Units
 
 ### Gameplay Plan
 

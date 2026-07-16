@@ -2,7 +2,7 @@
 
 - **Date:** 2026-03-21
 - **Map:** Dry Arabia
-- **Account**: KT Enjoyer
+- **Account**: Jardino
 - **Opponent**: Super
 - **My Civ:** knights_templar
 - **Opponent Civ:** macedonian_dynasty

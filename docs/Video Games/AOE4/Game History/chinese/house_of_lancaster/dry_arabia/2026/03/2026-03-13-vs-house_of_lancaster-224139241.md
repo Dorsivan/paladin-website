@@ -2,7 +2,7 @@
 
 - **Date:** 2026-03-13
 - **Map:** Dry Arabia
-- **Account**: Maturin the Turtle
+- **Account**: Solanum
 - **Opponent**: MrEggoWaffles
 - **My Civ:** chinese
 - **Opponent Civ:** house_of_lancaster

@@ -2,7 +2,7 @@
 
 - **Date:** 2026-03-29
 - **Map:** Dry Arabia
-- **Account**: Maturin the Turtle
+- **Account**: Solanum
 - **Opponent**: Busenlilli
 - **My Civ:** chinese
 - **Opponent Civ:** order_of_the_dragon

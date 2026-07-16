@@ -2,7 +2,7 @@
 
 - **Date:** 2026-04-15
 - **Map:** High View
-- **Account**: Maturin the Turtle
+- **Account**: Solanum
 - **Opponent**: Muhodo
 - **My Civ:** chinese
 - **Opponent Civ:** macedonian_dynasty

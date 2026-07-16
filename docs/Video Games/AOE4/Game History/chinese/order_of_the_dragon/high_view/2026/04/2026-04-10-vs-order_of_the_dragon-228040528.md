@@ -2,7 +2,7 @@
 
 - **Date:** 2026-04-10
 - **Map:** High View
-- **Account**: Maturin the Turtle
+- **Account**: Solanum
 - **Opponent**: crashBoy
 - **My Civ:** chinese
 - **Opponent Civ:** order_of_the_dragon

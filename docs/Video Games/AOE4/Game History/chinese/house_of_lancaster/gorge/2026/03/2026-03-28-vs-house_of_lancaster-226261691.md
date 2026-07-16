@@ -2,7 +2,7 @@
 
 - **Date:** 2026-03-28
 - **Map:** Gorge
-- **Account**: Maturin the Turtle
+- **Account**: Solanum
 - **Opponent**: Franncow
 - **My Civ:** chinese
 - **Opponent Civ:** house_of_lancaster

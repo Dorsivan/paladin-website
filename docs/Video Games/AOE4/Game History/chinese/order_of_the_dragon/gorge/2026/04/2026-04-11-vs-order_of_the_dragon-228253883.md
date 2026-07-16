@@ -2,7 +2,7 @@
 
 - **Date:** 2026-04-11
 - **Map:** Gorge
-- **Account**: Maturin the Turtle
+- **Account**: Solanum
 - **Opponent**: 茉莉兔兔
 - **My Civ:** chinese
 - **Opponent Civ:** order_of_the_dragon

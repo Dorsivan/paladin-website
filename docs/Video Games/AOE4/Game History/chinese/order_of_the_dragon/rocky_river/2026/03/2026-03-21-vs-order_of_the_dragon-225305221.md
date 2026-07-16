@@ -2,7 +2,7 @@
 
 - **Date:** 2026-03-21
 - **Map:** Rocky River
-- **Account**: Maturin the Turtle
+- **Account**: Solanum
 - **Opponent**: facubula
 - **My Civ:** chinese
 - **Opponent Civ:** order_of_the_dragon

@@ -2,7 +2,7 @@
 
 - **Date:** 2026-04-18
 - **Map:** Gorge
-- **Account**: Maturin the Turtle
+- **Account**: Solanum
 - **Opponent**: Alastor
 - **My Civ:** chinese
 - **Opponent Civ:** macedonian_dynasty
