@@ -1,0 +1,140 @@
+2026-09-16 14:26:35 [INFO] AoE4 Game Watcher started
+2026-09-16 14:26:35 [INFO] Watching player ID: 6827902
+2026-09-16 14:26:35 [INFO] Poll interval: 30s
+2026-09-16 14:26:35 [INFO] Game history dir: /home/dsivan/.openclaw/workspace/paladin-website/docs/Video Games/AOE4/Game History
+2026-09-16 14:26:35 [INFO] Last notified game: 251795625
+2026-09-16 15:24:34 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-17 12:30:11 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-17 16:49:10 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-17 18:23:34 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-17 18:24:19 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-18 10:13:29 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-18 10:14:14 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-18 20:30:47 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-18 23:00:40 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-18 23:01:10 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-18 23:01:41 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-18 23:02:11 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-18 23:02:41 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-18 23:03:11 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-18 23:03:41 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-19 04:56:42 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-19 04:57:27 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-19 04:58:12 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-19 04:58:57 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-19 04:59:42 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-19 06:49:24 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-19 06:50:09 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-19 06:50:54 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-19 06:52:40 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-19 08:52:19 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-19 10:20:30 [INFO] New game detected: chinese vs english on Gorge
+2026-09-19 10:20:30 [INFO] Found 1 tips for chinese vs english on Gorge
+2026-09-19 10:20:46 [ERROR] Discord send failed: OpenClaw config is invalid
+File: ~/.openclaw/openclaw.json
+Problem:
+  - agents.defaults.heartbeat: Invalid input
+
+Fix: openclaw doctor --fix
+Inspect: openclaw config validate
+Audit, status, health, logs, tasks list/audit, and doctor commands still run with invalid config.
+
+2026-09-19 10:20:46 [INFO] State updated. Last notified: 252375357
+2026-09-19 14:10:45 [INFO] AoE4 Game Watcher started
+2026-09-19 14:10:45 [INFO] Watching player ID: 6827902
+2026-09-19 14:10:45 [INFO] Poll interval: 30s
+2026-09-19 14:10:45 [INFO] Game history dir: /home/dsivan/.openclaw/workspace/paladin-website/docs/Video Games/AOE4/Game History
+2026-09-19 14:10:45 [INFO] Last notified game: 252375357
+2026-09-20 00:58:15 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-20 09:47:22 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-20 09:48:07 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-20 09:48:52 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-20 13:36:27 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-20 13:37:12 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-20 14:09:12 [INFO] New game detected: chinese vs rus on High View
+2026-09-20 14:09:12 [INFO] Found 0 tips for chinese vs rus on High View
+2026-09-20 14:09:27 [ERROR] Discord send error: Command '['openclaw', 'message', 'send', '--channel', 'discord', '--target', 'channel:1549737107205914754', '--json', '--message', '**:crossed_swords: chinese vs rus on High View**\nOpponent: 速不台的奇妙冒险\nNo past games found for this exact matchup + map. New territory - good luck! :muscle:']' timed out after 15 seconds
+2026-09-20 14:09:27 [INFO] State updated. Last notified: 252549135
+2026-09-20 14:44:49 [INFO] New game detected: chinese vs golden_horde on Gorge
+2026-09-20 14:44:49 [INFO] Found 1 tips for chinese vs golden_horde on Gorge
+2026-09-20 14:45:13 [ERROR] Discord send error: Command '['openclaw', 'message', 'send', '--channel', 'discord', '--target', 'channel:1549737107205914754', '--json', '--message', '**:crossed_swords: chinese vs golden_horde on Gorge**\nOpponent: Gueldenlenny\n\n:white_check_mark: **2026-03-14 - Gorge** (win)\n<https://aura-aura.apps.ocp.paladinaura.com/Video%20Games/AOE4/Game%20History/chinese/golden_horde/gorge/2026/03/2026-03-14-vs-golden_horde-224250970/>\n']' timed out after 15 seconds
+2026-09-20 14:45:13 [INFO] State updated. Last notified: 252553889
+2026-09-20 15:48:32 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-20 15:49:17 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-20 15:50:03 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-20 15:50:48 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-20 15:51:33 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-20 17:57:47 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-20 17:58:32 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-20 19:58:09 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-20 20:27:42 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-20 20:28:27 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-20 20:29:12 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-20 22:29:27 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-21 03:26:45 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-21 11:25:50 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-21 11:26:35 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-21 11:27:05 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-21 11:27:50 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-21 12:44:50 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-21 15:03:06 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-21 15:04:22 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-21 15:14:40 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-21 20:48:23 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-21 22:53:59 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-22 04:35:38 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-22 10:11:30 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-22 10:12:00 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-22 10:12:30 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-22 10:13:00 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-22 10:13:31 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-22 10:14:01 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-22 10:14:31 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-22 10:15:01 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-22 10:15:31 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-22 15:49:51 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-22 22:56:25 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-23 14:36:32 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-23 14:37:17 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-23 14:38:03 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-23 14:50:27 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-23 18:13:37 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-23 18:33:32 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-23 19:04:04 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-23 20:08:52 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-24 02:50:38 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 08:54:16 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 08:54:46 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 09:11:54 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 09:12:24 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 09:12:54 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 09:13:24 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 09:13:54 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 09:17:41 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-24 09:18:11 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 09:18:41 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 09:19:11 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 09:19:42 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 09:20:12 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 09:20:42 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 09:21:12 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 10:42:28 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 11:17:14 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-24 11:21:01 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-24 12:58:21 [INFO] New game detected: chinese vs chinese on Dry Arabia
+2026-09-24 12:58:21 [INFO] Found 0 tips for chinese vs chinese on Dry Arabia
+2026-09-24 12:58:36 [ERROR] Discord send error: Command '['openclaw', 'message', 'send', '--channel', 'discord', '--target', 'channel:1549737107205914754', '--json', '--message', '**:crossed_swords: chinese vs chinese on Dry Arabia**\nOpponent: brrread\nNo past games found for this exact matchup + map. New territory - good luck! :muscle:']' timed out after 15 seconds
+2026-09-24 12:58:36 [INFO] State updated. Last notified: 253051649
+2026-09-25 10:26:10 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-25 10:35:44 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-26 01:03:03 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3
+2026-09-26 01:57:10 [INFO] New game detected: chinese vs rus on Gorge
+2026-09-26 01:57:10 [INFO] Found 2 tips for chinese vs rus on Gorge
+2026-09-26 01:57:33 [ERROR] Discord send error: Command '['openclaw', 'message', 'send', '--channel', 'discord', '--target', 'channel:1549737107205914754', '--json', '--message', "**:crossed_swords: chinese vs rus on Gorge**\nOpponent: Sektor\n\n:x: **2026-09-14 - Gorge** (loss)\n- Based on a MarineLorD game on the same map (Chinese vs Rus): open with full knights first, then transition into horsemen with heavy springald tower support\n- Knights early to contest map control and relics, horsemen later to chase down horse archers, springald towers to lock down key positions\n- Don't mirror Pro Scouts against Rus — they get more value from it with hunting bonuses\n<https://aura-aura.apps.ocp.paladinaura.com/Video%20Games/AOE4/Game%20History/chinese/rus/gorge/2026/09/2026-09-14-vs-rus-251785679/>\n\n:x: **2026-03-14 - Gorge** (loss)\n<https://aura-aura.apps.ocp.paladinaura.com/Video%20Games/AOE4/Game%20History/chinese/rus/gorge/2026/03/2026-03-14-vs-rus-224348961/>\n"]' timed out after 15 seconds
+2026-09-26 01:57:33 [INFO] State updated. Last notified: 253273986
+2026-09-26 02:11:08 [INFO] New game detected: chinese vs rus on High View
+2026-09-26 02:11:08 [INFO] Found 1 tips for chinese vs rus on High View
+2026-09-26 02:11:31 [ERROR] Discord send error: Command '['openclaw', 'message', 'send', '--channel', 'discord', '--target', 'channel:1549737107205914754', '--json', '--message', "**:crossed_swords: chinese vs rus on High View**\nOpponent: 🐒\n\n:x: **2026-09-20 - High View** (loss)\n- When ahead, don't force unnecessary engagements — just play simple and let the lead do the work\n- Avoid committing the entire army into unfavorable positions\n<https://aura-aura.apps.ocp.paladinaura.com/Video%20Games/AOE4/Game%20History/chinese/rus/high_view/2026/09/2026-09-20-vs-rus-252549135/>\n"]' timed out after 15 seconds
+2026-09-26 02:11:31 [INFO] State updated. Last notified: 253274912
+2026-09-26 09:33:38 [WARNING] API fetch failed: HTTPSConnectionPool(host='aoe4world.com', port=443): Read timed out. (read timeout=15)
+2026-09-26 09:36:48 [WARNING] API fetch failed: 521 Server Error: <none> for url: https://aoe4world.com/api/v0/players/6827902/games?leaderboard=rm_solo&limit=3

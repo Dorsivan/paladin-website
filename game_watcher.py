@@ -205,8 +205,11 @@ def build_fallback_message(game_info, all_tips):
     for tip in all_tips[:5]:
         result_emoji = ":white_check_mark:" if tip["result"] == "win" else ":x:"
         lines.append("{} **{} - {}** ({})".format(result_emoji, tip["date"], tip["map"], tip["result"]))
-        if "What Should Be Done In The Future" in tip["sections"]:
-            lines.append(tip["sections"]["What Should Be Done In The Future"])
+        # Include all filled sections as fallback tips
+        for section_name in ["What Should Be Done In The Future", "What Went Well", "What Went Wrong", "Opening Strategy", "Opponent Strategy"]:
+            if section_name in tip["sections"]:
+                lines.append("**{}:**".format(section_name))
+                lines.append(tip["sections"][section_name])
         if tip.get("url"):
             lines.append("<{}>".format(tip["url"]))
         lines.append("")
